@@ -13,12 +13,17 @@ The application has been designed to support the following features:
 - Support localization -- NOT IMPLEMENTED
 
 Because this is a sample application, the solution contains only one project.
+
 However, the application has been developed to be maintainable, testable and easily expandable. 
+
 To achieve this goal I choosed to use the MVVM pattern to separate the view from the business logic (viewmodel and services).
+
 The application also relies on an IoC container (Unity) to handle dependencies, thus allowing the creation of mocks for unit testing (among other advantages like interception)
+
 There's also an exemple of InProc messaging using Prism EventAggregator which avoid strong coupling between ViewModels
 
 NB: the wrapper (MeasureService) over Unitsnet library was totally unnecessary but was made as an example of business service.
+
 
 ![Alt text](/assets/SolutionView.PNG?raw=true)
 
