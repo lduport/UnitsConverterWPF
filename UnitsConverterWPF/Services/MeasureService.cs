@@ -11,6 +11,11 @@ namespace UnitsConverterWPF.Services
     /// </summary>
     public class MeasureService : IMeasureService
     {
+        public double Convert(QuantityValue fromValue, Enum fromUnitValue, Enum toUnitValue)
+        {
+            return UnitConverter.Convert(fromValue, fromUnitValue, toUnitValue);
+        }
+
         public IEnumerable<QuantityInfo> GetMeasures(string filter)
         {
             if (string.IsNullOrEmpty(filter))

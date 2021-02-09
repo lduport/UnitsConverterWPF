@@ -108,10 +108,7 @@ namespace UnitsConverterWPF.ViewModels
 
                     if (values.Item1 == null || values.Item2 == null) return;
 
-                    double convertedValue =
-                        UnitConverter.Convert(values.Item3,
-                        values.Item1.Value,
-                        values.Item2.Value);
+                    double convertedValue = _measureService.Convert(values.Item3, values.Item1.Value,values.Item2.Value);
 
                     if (values.Item3 != decimal.Zero)
                     {
