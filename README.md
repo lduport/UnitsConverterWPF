@@ -7,9 +7,9 @@ The application has been designed to support the following features:
 - Reverse conversion settings
 - Copy of the result to the clipboard
 - Display an history of the last conversions
-- Conversion in several units simultaneously
-- Display of the formula used (like Google)
-- Converting a file
+- Conversion in several units simultaneously -- NOT IMPLEMENTED
+- Display of the formula used (like Google) -- NOT IMPLEMENTED
+- Converting a file -- NOT IMPLEMENTED
 
 ![Alt text](/assets/unitsconverter.png?raw=true)
 ![Alt text](/assets/unitsconverter2.png?raw=true)
