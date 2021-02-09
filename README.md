@@ -11,6 +11,12 @@ The application has been designed to support the following features:
 - Display of the formula used (like Google) -- NOT IMPLEMENTED
 - Converting a file -- NOT IMPLEMENTED
 
+Because this is a sample application, the solution contains only one project with the following structure
+
+![Alt text](/assets/SolutionView.PNG?raw=true)
+
+# Screenshots
+
 ![Alt text](/assets/unitsconverter.png?raw=true)
 ![Alt text](/assets/unitsconverter2.png?raw=true)
 
