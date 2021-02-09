@@ -1,6 +1,15 @@
 # UnitsConverterWPF
 A small unit of measure converted WPF application using Prism, mahApps, ReactiveUI...
 
+The application has been designed to support the following features:
+
+- Perform a simple conversion
+- Reverse conversion settings
+- Copy of the result to the clipboard
+- Display an history of the last conversions
+- Conversion in several units simultaneously
+- Display of the formula used (like Google)
+- Converting a file
 
 # Dependencies
 https://github.com/MahApps/MahApps.Metro - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
