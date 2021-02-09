@@ -11,6 +11,9 @@ The application has been designed to support the following features:
 - Display of the formula used (like Google)
 - Converting a file
 
+![Alt text](/assets/unitsconverter.png?raw=true)
+![Alt text](/assets/unitsconverter2.png?raw=true)
+
 # Dependencies
 https://github.com/MahApps/MahApps.Metro - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
 
