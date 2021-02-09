@@ -1,5 +1,5 @@
 # UnitsConverterWPF
-A small unit of measure converted WPF application using Prism, mahApps, ReactiveUI...
+A small unit of measure converter WPF application using Prism, mahApps, ReactiveUI...
 
 The application has been designed to support the following features:
 
